@@ -1,20 +1,4 @@
-name: avenir
-favicon: null
-layout_spectrum: 0.76824
 typography_spectrum: 1
-title: A light in a dark place
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e2e1dd'
@@ -26,4 +10,22 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76824
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c71852f-e4cd-4e77-9d54-63ab43c58be2.png
+name: avenir
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: A light in a dark place
 purpose: []
